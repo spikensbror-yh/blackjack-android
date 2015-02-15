@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlackJack</string>
+
+    <string name="connect_failed">Could not connect to the server!</string>
+    <string name="connect_host">Host</string>
+    <string name="connect_host_text">10.0.2.2</string>
+    <string name="connect_loading">Connecting...</string>
+    <string name="connect_port">Port</string>
+    <string name="connect_port_text">3232</string>
+
+    <string name="global_loading">Loading...</string>
+    <string name="global_ok">Ok</string>
+
+    <string name="result_bust">Bust!</string>
+    <string name="result_loss">You loose!</string>
+    <string name="result_win">You win!</string>
+    <string name="result_restart">You need to restart the game in order to play!</string>
+
+    <string name="score_label">%1$s (%2$d)</string>
+    <string name="score_label_dealer">Dealer</string>
+    <string name="score_label_diverse">%1$s (%2$d or %3$d)</string>
+    <string name="score_label_player">You</string>
+
+    <string name="title_connect">Connect</string>
+    <string name="title_play">Play</string>
+
+</resources>
